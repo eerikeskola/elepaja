@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR37_1
+Add Net: Net with name "NetMAIN_1" already exists
+Add Net: Net with name "NetMAIN_1" already exists
+Add Net: Net with name "NetMAIN_1" already exists
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
