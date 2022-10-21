@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=T13_U_FPGA1 Pin=U1_U_FPGA1-99
+Removed Pin From Net: NetName=T14_U_FPGA1 Pin=U1_U_FPGA1-100
+Added Pin To Net: NetName=T15_U_FPGA1 Pin=U1_U_FPGA1-99
+Added Pin To Net: NetName=T16_U_FPGA1 Pin=U1_U_FPGA1-100
+Add Net: Net with name "NetMAIN_1" already exists
+Add Net: Net with name "NetMAIN_1" already exists
+Add Net: Net with name "NetMAIN_1" already exists
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=U_FPGA2 Member=Component U1_U_FPGA2 (U1A) T8Q144Cx

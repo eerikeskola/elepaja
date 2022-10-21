@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=20V Pin=P1-3
+Removed Pin From Net: NetName=1V2 Pin=P1-5
+Removed Pin From Net: NetName=MOSI_DATA Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=MISO_DATA Pin=P1-8
+Removed Pin From Net: NetName=3V3 Pin=P1-9
+Removed Pin From Net: NetName=CCK_DATA Pin=P1-10
+Removed Pin From Net: NetName=20V Pin=P1-11
+Removed Pin From Net: NetName=EXT_SYNC_OUT Pin=P1-12
+Removed Pin From Net: NetName=GND Pin=P1-13
+Removed Pin From Net: NetName=EXT_SYNC_IN Pin=P1-14
+Removed Pin From Net: NetName=CRESET Pin=P1-15
+Removed Pin From Net: NetName=CDONE_EXT Pin=P1-16
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=CCK_MCU Pin=P2-2
+Removed Pin From Net: NetName=MISO_MCU Pin=P2-3
+Removed Pin From Net: NetName=MOSI_MCU Pin=P2-4
+Removed Pin From Net: NetName=RST_MCU Pin=P2-5
+Removed Pin From Net: NetName=3V3_FT Pin=P2-6
+Removed Member From Class: ClassName=Main Member=P1
+Removed Member From Class: ClassName=Main Member=P2
+Added Component: Designator=J?(61001621121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6100xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61001621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61001621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=P?(61000618221)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6100xx18221.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61000618221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61000618221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CDONE_EXT Pin=J?-1
+Added Pin To Net: NetName=CRESET Pin=J?-2
+Added Pin To Net: NetName=EXT_SYNC_IN Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=EXT_SYNC_OUT Pin=J?-5
+Added Pin To Net: NetName=20V Pin=J?-6
+Added Pin To Net: NetName=CCK_DATA Pin=J?-7
+Added Pin To Net: NetName=3V3 Pin=J?-8
+Added Pin To Net: NetName=MISO_DATA Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=MOSI_DATA Pin=J?-11
+Added Pin To Net: NetName=1V2 Pin=J?-12
+Added Pin To Net: NetName=20V Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=3V3_FT Pin=P?-1
+Added Pin To Net: NetName=RST_MCU Pin=P?-2
+Added Pin To Net: NetName=MOSI_MCU Pin=P?-3
+Added Pin To Net: NetName=MISO_MCU Pin=P?-4
+Added Pin To Net: NetName=CCK_MCU Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=NetJ?_13 Pin=J?-13
+Added Pin To Net: NetName=NetJ?_13 Pin=MAIN-1
+Added Pin To Net: NetName=NetJ?_13 Pin=SEC-1
+Added Net: Name=NetJ?_13
+Added Pin To Net: NetName=NetJ?_15 Pin=J?-15
+Added Pin To Net: NetName=NetJ?_15 Pin=MAIN-1
+Added Pin To Net: NetName=NetJ?_15 Pin=SEC-1
+Added Net: Name=NetJ?_15
+Add Net: Net with name "NetMAIN_1" already exists
+Added Member To Class: ClassName=Main Member=Component J? 61001621121
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component P? 61000618221
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
