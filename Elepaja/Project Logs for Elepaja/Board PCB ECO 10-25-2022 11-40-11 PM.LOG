@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=U_FPGA1 Member=P?_U_FPGA1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=CDI0
+Change Net Name : Old Net Name=NetR15_1 New Net Name=CDI1

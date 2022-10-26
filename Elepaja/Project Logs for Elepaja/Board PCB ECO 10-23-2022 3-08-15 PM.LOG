@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=J?-4
+Removed Pin From Net: NetName=20V Pin=J?-6
+Removed Pin From Net: NetName=3V3 Pin=J?-8
+Removed Pin From Net: NetName=1V2 Pin=J?-12
+Removed Pin From Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=3V3 Pin=J?-4
+Added Pin To Net: NetName=1V2 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=20V Pin=J?-16
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Net: Net with name "NetMAIN_1" already exists
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Add Class Member: Failed to add class member : Component Q1 MMBT3904-7-F
+Add Class Member: Failed to add class member : Component Q2 MMBT3904-7-F
+Add Class Member: Failed to add class member : Component R24 100k
+Add Class Member: Failed to add class member : Component R25 100k
+Add Class Member: Failed to add class member : Component R28 100k
+Add Class Member: Failed to add class member : Component R31 100k
+Add Class Member: Failed to add class member : Component R32 100k
+Add Class Member: Failed to add class member : Component R33 100k
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R

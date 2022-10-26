@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=CDONE_EXT Pin=J?-1
+Removed Pin From Net: NetName=EXT_SYNC_IN Pin=J?-3
+Removed Pin From Net: NetName=EXT_SYNC_OUT Pin=J?-5
+Removed Pin From Net: NetName=CCK_DATA Pin=J?-7
+Removed Pin From Net: NetName=MISO_DATA Pin=J?-9
+Removed Pin From Net: NetName=MOSI_DATA Pin=J?-11
+Added Pin To Net: NetName=CCK_DATA Pin=J?-1
+Added Pin To Net: NetName=MISO_DATA Pin=J?-3
+Added Pin To Net: NetName=MOSI_DATA Pin=J?-5
+Added Pin To Net: NetName=CDONE_EXT Pin=J?-7
+Added Pin To Net: NetName=EXT_SYNC_IN Pin=J?-9
+Added Pin To Net: NetName=EXT_SYNC_OUT Pin=J?-11
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Net: Net with name "NetMAIN_1" already exists
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Add Class Member: Failed to add class member : Component Q1 MMBT3904-7-F
+Add Class Member: Failed to add class member : Component Q2 MMBT3904-7-F
+Add Class Member: Failed to add class member : Component R24 100k
+Add Class Member: Failed to add class member : Component R25 100k
+Add Class Member: Failed to add class member : Component R28 100k
+Add Class Member: Failed to add class member : Component R31 100k
+Add Class Member: Failed to add class member : Component R32 100k
+Add Class Member: Failed to add class member : Component R33 100k
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R

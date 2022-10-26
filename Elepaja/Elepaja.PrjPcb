@@ -150,6 +150,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXECNEYP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Elepaja\Design Rule Check - Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

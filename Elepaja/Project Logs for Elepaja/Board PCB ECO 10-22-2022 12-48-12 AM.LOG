@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=MOSI_DATA Pin=U1_U_FPGA1-14
+Removed Pin From Net: NetName=CCK_DATA Pin=U1_U_FPGA1-16
+Removed Pin From Net: NetName=MOSI_DATA Pin=U1_U_FPGA2-14
+Removed Pin From Net: NetName=CCK_DATA Pin=U1_U_FPGA2-16
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-5
+Add Pin To Net: Unknown Pin: Pin J?-6
+Add Pin To Net: Unknown Pin: Pin J?-7
+Add Pin To Net: Unknown Pin: Pin J?-8
+Add Pin To Net: Unknown Pin: Pin J?-9
+Add Pin To Net: Unknown Pin: Pin J?-10
+Add Pin To Net: Unknown Pin: Pin J?-11
+Add Pin To Net: Unknown Pin: Pin J?-12
+Add Pin To Net: Unknown Pin: Pin J?-13
+Add Pin To Net: Unknown Pin: Pin J?-14
+Add Pin To Net: Unknown Pin: Pin J?-15
+Add Pin To Net: Unknown Pin: Pin J?-16
+Add Pin To Net: Unknown Pin: Pin P?-1
+Add Pin To Net: Unknown Pin: Pin P?-2
+Add Pin To Net: Unknown Pin: Pin P?-3
+Add Pin To Net: Unknown Pin: Pin P?-4
+Add Pin To Net: Unknown Pin: Pin P?-5
+Add Pin To Net: Unknown Pin: Pin P?-6
+Added Pin To Net: NetName=CCK_DATA Pin=U1_U_FPGA1-14
+Added Pin To Net: NetName=MOSI_DATA Pin=U1_U_FPGA1-16
+Added Pin To Net: NetName=CCK_DATA Pin=U1_U_FPGA2-14
+Added Pin To Net: NetName=MOSI_DATA Pin=U1_U_FPGA2-16
+Add Net: Net with name "NetMAIN_1" already exists
+Add Class Member: Failed to add class member : Component J? 61001621121
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Added Member To Class: ClassName=Main Member=Component MAIN 0R
+Add Class Member: Failed to add class member : Component P? 61000618221
+Added Member To Class: ClassName=Main Member=Component SEC 0R
+Added Member To Class: ClassName=Main Member=Component SEC 0R
